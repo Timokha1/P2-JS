@@ -1,0 +1,14 @@
+{
+  "name": "p2-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": 
+  {
+    "test": "jest"
+  },
+  "devDependencies": 
+  {
+    "jest": "^29.0.0"
+  }
+}
